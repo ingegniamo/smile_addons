@@ -3,8 +3,8 @@
 
 {
     "name": "Display Decimal Precision",
-    "version": "15.0.0.0.1",
-    "depends": ["base"],
+    "version": "14.0.0.0.1",
+    "depends": ["web"],
     "author": "Smile",
     "license": 'AGPL-3',
     "description": """
